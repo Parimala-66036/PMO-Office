@@ -1,0 +1,12 @@
+This is for project plan
+
+Project Title : Web-Development
+
+Methodology : Agile
+
+Phase 1 : Requirements
+Phase 2 : Design
+Phase 3 : Development
+Phase 4 : Testing
+Phase 5 : Deployment
+Phase 6 : Maintanance 
